@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently school on **SMKN 8 JEMBER**
 
-- 🌱 I’m currently learning **Elysia Js, Express Js**
+- 🌱 I’m currently learning **Next Js, Express Js**
 
 - 📫 How to reach me **ferrenxx@gmail.com**
 
