@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently school on **SMKN 8 JEMBER**<br><br>- 🌱 I’m currently learning **Next Js, Express Js**<br><br>- 📫 How to reach me **ferrenxx@gmail.com**
+- 🔭 I’m currently school on **SMKN 8 JEMBER**<br><br>- 🌱 I’m currently learning **Golang, Express Js**<br><br>- 📫 How to reach me **ferrenxx@gmail.com**
 
 
 ## 🌐 Socials:
