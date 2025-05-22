@@ -18,5 +18,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github.com/Diovalda22/Diovalda22/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/Diovalda22/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
