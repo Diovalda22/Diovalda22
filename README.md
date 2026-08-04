@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭I'm Ferren Dio, an Informatics Engineering student at **Dian Nuswantoro University (UDINUS)**<br><br>- 🌱 I’m currently learning **Express Js and TypeScript**<br><br>- 📫 How to reach me **ferrenxx@gmail.com**
+- 🔭I'm Ferren Dio, an Informatics Engineering student at **Dian Nuswantoro University (UDINUS)**<br><br>- 🌱 I’m currently learning **Machine Learning**<br><br>- 📫 How to reach me **ferrenxx@gmail.com**
 
 
 ## 🌐 Socials:
